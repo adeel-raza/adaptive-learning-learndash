@@ -1,0 +1,15 @@
+.course-assign-notification-wrapper {
+    width: 300px;
+    position: fixed;
+    top: 100px;
+    right: -400px;
+    background: #fff;
+    border: 1px solid rgba(175, 145, 247, 1);
+    border-left-width: 5px;
+    padding: 5px 20px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: inset -2px 0 40px 0px rgba(175, 145, 247, 0.7);
+}
